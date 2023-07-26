@@ -1,0 +1,10 @@
+* clerk
+
+A cron-like scheduler with sane DSL
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lisp-maintainers/clerk.git   |
+| commit  | 0e45fdd  |
+| systems | clerk |
+|---------+-------------------------------------------|
+
